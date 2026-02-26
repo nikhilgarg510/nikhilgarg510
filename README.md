@@ -71,8 +71,7 @@ These days I'm focused on building scalable products — full-stack web apps, mo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhilgarg510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgarg510&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nikhilgarg510&theme=tokyonight&hide_border=true" />
 
 </div>
 
