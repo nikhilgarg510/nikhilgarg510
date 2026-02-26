@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Nikhil Garg
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Former+CTO+%26+Technical+Architect;Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js;12%2B+Years+%7C+100%2B+Projects+%7C+50%2B+Clients" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Former+CTO+%26+Technical+Architect;Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js;13%2B+Years+%7C+100%2B+Projects+%7C+50%2B+Clients" alt="Typing SVG" />
 
 <p>
   <a href="mailto:nikg510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,13 +17,13 @@
 
 ## 🚀 About Me
 
-I started as a developer, grew into a CTO, and now I bring that full journey to every project I take on. Over 12+ years I've shipped 100+ projects across startups and enterprises, led teams of 60+ developers, and worn every hat from writing code at 2am to presenting tech strategy in boardrooms.
+I started as a developer, grew into a CTO, and now I bring that full journey to every project I take on. Over 13+ years I've shipped 100+ projects across startups and enterprises, led teams of 60+ developers, and worn every hat from writing code at 2am to presenting tech strategy in boardrooms.
 
-These days I'm focused on building scalable products — full-stack web apps, mobile apps, and the kind of systems that don't fall over when they get popular. I work with clients worldwide through Toptal and independently.
+These days I'm focused on building scalable products : full-stack web apps, mobile apps, and the kind of systems that don't fall over when they get popular. I work with clients worldwide through Toptal and independently.
 
-- 🔭 Currently building **CodeWarranty** — an enterprise warranty management SaaS
+- 🔭 Currently building **CodeWarranty** : an enterprise warranty management SaaS
 - 🤖 Also working on an **AI Assistant ChatBot** trained on my 13 years of experience
-- 💼 Freelancer on **Toptal** — working with clients across the US, NZ, and beyond
+- 💼 Freelancer on **Toptal** : working with clients across the US, NZ, and beyond
 - 📫 **nikg510@gmail.com** · [nikhilgarg510.com](https://nikhilgarg510.com)
 
 ---
@@ -81,14 +81,14 @@ These days I'm focused on building scalable products — full-stack web apps, mo
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| 🛡️ **[CodeWarranty](https://nikhilgarg510.com/projects/codewarranty)** | Enterprise warranty management SaaS for solar, appliances, electronics & EVs — analytics, fraud detection, multi-portal | React, Node.js, MongoDB, Express |
+| 🛡️ **[CodeWarranty](https://nikhilgarg510.com/projects/codewarranty)** | Enterprise warranty management SaaS D2C Electronics with AI analytics, fraud detection, multi-portal | React, Node.js, PostGreSQL, Redis, BullsMQ, Fastify |
 | 🤖 **[AI Assistant ChatBot](https://nikhilgarg510.com/projects/ai-assistant-chatbot)** | AI chatbot trained on 13 years of my own experience, with smart caching to keep API costs low | Node.js, OpenAI API, Firestore |
 | 🛒 **[Firestarter AI Shopping Assistant](https://nikhilgarg510.com/projects/firestarter-ai)** | Shopify public app that uses AI to transform how customers discover products | React, Shopify Polaris, Node.js |
 | 🏗️ **[Satsman - AI Platform](https://nikhilgarg510.com/projects/satsman)** | Production-grade React app with full DevOps/CI-CD pipeline supporting an AI-generated codebase | React, Node.js, PostgreSQL, Neon |
-| 💪 **[DiversiFIT - Fitness App](https://nikhilgarg510.com/projects/diversifit)** | Legacy MERN fitness app — full modernization and API migration for production stability | React, Node.js, Express, MongoDB |
+| 💪 **[DiversiFIT - Fitness App](https://nikhilgarg510.com/projects/diversifit)** | Legacy MERN fitness app, full modernization and API migration for production stability | React, Node.js, Express, MongoDB |
 | 🏢 **[Codenomad EMS](https://nikhilgarg510.com/projects/codenomad-employee-management)** | End-to-end enterprise employee management with RBAC, time tracking & ElectronJS desktop app | PHP, CodeIgniter, ElectronJS, MySQL |
 | 🔒 **[Jacana Warranty Platform](https://nikhilgarg510.com/projects/jacana-warranty)** | Scaled a startup warranty platform to an industry leader over 4+ years as Executive Director of IT | WordPress, React, Node.js |
-| 🏥 **[Doctome - CA/CPA SaaS](https://nikhilgarg510.com/projects/doctome)** | Office automation SaaS for Chartered Accountants — task management, client tracking, deadline monitoring | PHP, CodeIgniter, JavaScript, MySQL |
+| 🏥 **[Doctome - CA/CPA SaaS](https://nikhilgarg510.com/projects/doctome)** | Office automation SaaS for Chartered Accountants for task management, client tracking, deadline monitoring | PHP, CodeIgniter, JavaScript, MySQL |
 
 ---
 
