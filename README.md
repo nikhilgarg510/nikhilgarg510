@@ -2,11 +2,12 @@
 
 # 👋 Hi, I'm Nikhil Garg
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js;Building+Scalable+Web+Apps;Freelance+Engineer+on+Toptal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Former+CTO+%26+Technical+Architect;Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js;12%2B+Years+%7C+100%2B+Projects+%7C+50%2B+Clients" alt="Typing SVG" />
 
 <p>
   <a href="mailto:nikg510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/nikhilgarg510"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nikhilgarg510"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://nikhilgarg510.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=nikhilgarg510&style=for-the-badge&color=6E40C9" alt="Profile views" />
 </p>
 
@@ -16,13 +17,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with expertise in building robust, scalable web and mobile applications. With **611+ contributions** on GitHub and experience across multiple industries, I love crafting clean, efficient code and solving complex problems.
+I started as a developer, grew into a CTO, and now I bring that full journey to every project I take on. Over 12+ years I've shipped 100+ projects across startups and enterprises, led teams of 60+ developers, and worn every hat from writing code at 2am to presenting tech strategy in boardrooms.
 
-- 🔭 Currently building **CodeWarranty** — a full-stack warranty management platform
-- 🌱 Always learning and exploring new technologies
-- 💼 Freelance engineer working with global clients via **Toptal**
-- 🏢 Part of **MainCross-ProSocial** & **NihaoSchoolMexico** organizations
-- 📫 Reach me at **nikg510@gmail.com**
+These days I'm focused on building scalable products — full-stack web apps, mobile apps, and the kind of systems that don't fall over when they get popular. I work with clients worldwide through Toptal and independently.
+
+- 🔭 Currently building **CodeWarranty** — an enterprise warranty management SaaS
+- 🤖 Also working on an **AI Assistant ChatBot** trained on my 13 years of experience
+- 💼 Freelancer on **Toptal** — working with clients across the US, NZ, and beyond
+- 📫 **nikg510@gmail.com** · [nikhilgarg510.com](https://nikhilgarg510.com)
 
 ---
 
@@ -51,17 +53,16 @@ I'm a passionate **Full Stack Developer** with expertise in building robust, sca
 ### Mobile
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ### Database & Tools
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -73,34 +74,26 @@ I'm a passionate **Full Stack Developer** with expertise in building robust, sca
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikhilgarg510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilgarg510&theme=tokyonight&hide_border=true" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgarg510&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilgarg510&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 ---
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛡️ **CodeWarranty** | Full-stack warranty management platform with store dashboard, customer portal & mobile app | TypeScript, React, Node.js |
-| 🚗 **TrafficApp** | Android application for traffic management | Java, Android |
-| 👥 **Employee Management System** | Complete EMS with Angular 2 frontend | PHP, Angular |
-| 🔄 **Mindbody API Migration** | API migration & integration project | JavaScript |
-| 🎨 **Civic Website Frontend** | Modern civic platform frontend | TypeScript, React |
-| 🛒 **Multi-Ecommerce Store Vendor** | Multi-vendor e-commerce solution | JavaScript |
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| 🛡️ **[CodeWarranty](https://nikhilgarg510.com/projects/codewarranty)** | Enterprise warranty management SaaS for solar, appliances, electronics & EVs — analytics, fraud detection, multi-portal | React, Node.js, MongoDB, Express |
+| 🤖 **[AI Assistant ChatBot](https://nikhilgarg510.com/projects/ai-assistant-chatbot)** | AI chatbot trained on 13 years of my own experience, with smart caching to keep API costs low | Node.js, OpenAI API, Firestore |
+| 🛒 **[Firestarter AI Shopping Assistant](https://nikhilgarg510.com/projects/firestarter-ai)** | Shopify public app that uses AI to transform how customers discover products | React, Shopify Polaris, Node.js |
+| 🏗️ **[Satsman - AI Platform](https://nikhilgarg510.com/projects/satsman)** | Production-grade React app with full DevOps/CI-CD pipeline supporting an AI-generated codebase | React, Node.js, PostgreSQL, Neon |
+| 💪 **[DiversiFIT - Fitness App](https://nikhilgarg510.com/projects/diversifit)** | Legacy MERN fitness app — full modernization and API migration for production stability | React, Node.js, Express, MongoDB |
+| 🏢 **[Codenomad EMS](https://nikhilgarg510.com/projects/codenomad-employee-management)** | End-to-end enterprise employee management with RBAC, time tracking & ElectronJS desktop app | PHP, CodeIgniter, ElectronJS, MySQL |
+| 🔒 **[Jacana Warranty Platform](https://nikhilgarg510.com/projects/jacana-warranty)** | Scaled a startup warranty platform to an industry leader over 4+ years as Executive Director of IT | WordPress, React, Node.js |
+| 🏥 **[Doctome - CA/CPA SaaS](https://nikhilgarg510.com/projects/doctome)** | Office automation SaaS for Chartered Accountants — task management, client tracking, deadline monitoring | PHP, CodeIgniter, JavaScript, MySQL |
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilgarg510&theme=tokyo-night&hide_border=true&area=true" />
@@ -110,8 +103,8 @@ I'm a passionate **Full Stack Developer** with expertise in building robust, sca
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💡 "From startup developer to CTO — now helping businesses build what I wish I'd had."
 
-⭐ **If you find my projects useful, consider giving them a star!** ⭐
+⭐ **Spot something interesting? Feel free to star a repo or just say hi!** ⭐
 
 </div>
